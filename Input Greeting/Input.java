@@ -4,9 +4,9 @@ public class Input {
   
   public static void main(String[] args) {
    
-    final Scanner xUsr = new Scanner(System.in);
+    Scanner xUsr = new Scanner(System.in);
     System.out.print("Enter name: ");
-    final String usr = xUser.nextLine();
+    String usr = xUser.nextLine();
     
     System.out.printf("Hello %s", usr);
     
