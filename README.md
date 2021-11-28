@@ -1,2 +1,2 @@
 # BosniasMostWanted
-Still trying to figure out what the hell this is too...
+I'm Still Working on the Desc and will probably never get to it anyway 🗿
