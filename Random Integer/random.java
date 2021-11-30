@@ -4,7 +4,7 @@ public class random {
     
     int randNum = (int) (Math.random() * ((10 - 1) + 1));
     
-    System.out.printf("%d", randNum);
+    System.out.println(randNum);
     
   }
 }
